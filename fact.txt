@@ -15,7 +15,7 @@ unsigned int factorial(unsigned int n)
 // Driver code
 int main()
 {
-	int num = 3;//updated form n=5 to n=3
+	int num =5
 	cout << "Factorial of " << num << " is "
 		<< factorial(num) << endl;
 	return 0;
